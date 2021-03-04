@@ -1,0 +1,19 @@
+// create react app using npx
+
+npx create-react-app task-tracker
+// view react version
+npm view react version
+// to use some icon 
+npm i react-icons
+// for routing 
+npm i react-router-dom
+//build your react project for production 
+npm run build
+//install your json local server 
+npm i -g serve    
+//rund your lcla json db   
+serve -s build -p 8000
+install your local db.json
+npm i json-server
+
+https://www.youtube.com/watch?v=w7ejDZ8SWv8

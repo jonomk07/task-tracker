@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Task Tracker App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is the project from the YouTube crash course. It includes the react ui as well as JSON-server for our mock backend
 
 ##  create react app using npx
 ### `npx create-react-app task-tracker`
